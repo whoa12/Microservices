@@ -1,1 +1,1 @@
-This t=is the rating Service
+This is the rating Service
